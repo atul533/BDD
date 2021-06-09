@@ -1,0 +1,31 @@
+1622720209079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ATUL~1.SIN\\AppData\\Local\\Temp\\rust_mozprofile.bpsbxN9tXPSE"
+1622720237067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ATUL~1.SIN\\AppData\\Local\\Temp\\rust_mozprofile.amQZQ1sbwViJ"
+1622720240279	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1622720263442	Marionette	INFO	Listening on port 62484
+1622720264121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622720274025	Marionette	INFO	Stopped listening on port 62484
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-6X92, line 5636: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622720290080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ATUL~1.SIN\\AppData\\Local\\Temp\\rust_mozprofile.E01K5atglmMn"
+1622720292510	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622720304155	Marionette	INFO	Listening on port 65223
+1622720304555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622720311461	Marionette	INFO	Stopped listening on port 65223
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-6X92, line 5636: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
